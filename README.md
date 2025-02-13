@@ -1,3 +1,6 @@
+## 2025-02-13
+- **Blog**: [Title Launch Observability at Netflix Scale](https://netflixtechblog.com/title-launch-observability-at-netflix-scale-c88c586629eb)
+
 ## 2025-02-12
 - **Blog**: [Sequence learning: A paradigm shift for personalized ads recommendations](https://engineering.fb.com/2024/11/19/data-infrastructure/sequence-learning-personalized-ads-recommendations/)
 
