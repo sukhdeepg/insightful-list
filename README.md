@@ -12,6 +12,7 @@
 
 ## 2025-02-12
 - **Blog**: [Sequence learning: A paradigm shift for personalized ads recommendations](https://engineering.fb.com/2024/11/19/data-infrastructure/sequence-learning-personalized-ads-recommendations/)
+  > Meta's ad recommendation engine has undergone a transformation from Deep Learning Recommendation Models (DLRMs) that relied on human-engineered features to a system using **sequence learning** with **event-based features (EBFs)** to improve personalized ad delivery. The shift addresses the limitations of DLRMs, such as the loss of sequential and granular information, reliance on human intuition, and redundant feature spaces. The new system uses EBFs, which standardize heterogeneous inputs, incorporate rich information about events (like ad categories and timestamps), and replace legacy sparse features. **Event models** synthesize event embeddings, and **sequence models** use attention mechanisms to understand a person's behavior over time. This new approach has led to improved ad prediction accuracy, resulting in **2-4% more conversions on select segments**. The focus going forward involves scaling event sequences, developing more efficient sequence modeling architectures, and multimodal enrichment of event sequences.
 
 - **Blog**: [Behind the platform: the journey to create the LinkedIn GenAI application tech stack](https://www.linkedin.com/blog/engineering/generative-ai/behind-the-platform-the-journey-to-create-the-linkedin-genai-application-tech-stack)
 
