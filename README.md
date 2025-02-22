@@ -1,3 +1,7 @@
+### The following list gets rendered on this page: [sukhdeep.tech/list](http://sukhdeep.tech/list)
+
+---
+
 ## 2025-02-21
 - **Blog** **[Uber]**: [H3: Uber's Hexagonal Hierarchical Spatial Index](https://www.uber.com/en-IN/blog/h3/)
   > Uber developed **H3, a hexagonal, hierarchical spatial index**, a system that uses hexagons to divide up maps, helping them analyze location data for things like setting ride prices and understanding city-wide trends. Instead of using traditional squares or irregular shapes like zip codes, H3 uses hexagons because they better represent movement and distance. This system helps Uber understand where demand is high and optimize services. H3 combines a **hexagonal grid** with a **hierarchical system** that divides the world into 122 base cells, also including twelve pentagons to make the system work on a sphere. It offers **sixteen levels of detail**, allowing Uber to zoom in or out as needed. The H3 system is available for anyone to use and can convert locations into a special code for easy analysis.
