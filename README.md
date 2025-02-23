@@ -1,6 +1,9 @@
 ### The following list gets rendered on this page: [sukhdeep.tech/list](http://sukhdeep.tech/list)
 
 ---
+## 2025-02-23
+- **Blog** **[Uber]**: [Engineering Uber Predictions in Real Time with ELK](https://www.uber.com/en-IN/blog/elk/)
+  > [Summary](https://x.com/sdtbytes/status/1893618707655434647)
 
 ## 2025-02-21
 - **Blog** **[Uber]**: [H3: Uber's Hexagonal Hierarchical Spatial Index](https://www.uber.com/en-IN/blog/h3/)
