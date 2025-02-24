@@ -3,7 +3,7 @@
 ---
 ## 2025-02-23
 - **Blog** **[Uber]**: [Engineering Uber Predictions in Real Time with ELK](https://www.uber.com/en-IN/blog/elk/)
-  > [Summary](https://x.com/sdtbytes/status/1893618707655434647)
+  > Uber enhanced its user experience across its product portfolio by creating a **custom prediction system** using the open-source ELK stack (Elasticsearch, Logstash, and Kibana) to provide precise and interpretable forecasting for engineering and operations. This system uses an **online k-nearest neighbors algorithm (KNN)**, leveraging both historical and real-time trip data to predict patterns like trip density and match rate. The architecture includes data pipelines using Kafka and Hive for real-time queries and analytics, a training service for parameter selection, and a configuration service to serve actionable parameters to the prediction service. To handle Uber's scale, the system was optimized for horizontal scalability, incorporating hexagonal queries to reduce query size and virtual clusters to overcome limitations of single cluster architecture. Key lessons learned include the importance of provisioning sufficient resources, organizing data logically, and ordering Elasticsearch queries efficiently. The real-time prediction system has been implemented across **400 cities worldwide**.
 
 ## 2025-02-21
 - **Blog** **[Uber]**: [H3: Uber's Hexagonal Hierarchical Spatial Index](https://www.uber.com/en-IN/blog/h3/)
